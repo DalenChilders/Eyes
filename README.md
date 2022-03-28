@@ -1,3 +1,3 @@
 # Eyes
 Eyes tracking mouse movement
-<img scr='./Documents/EyeMovement/Eyes.png'>
+<img scr='./Dalen/Documents/EyeMovement/Eyes.png'>
