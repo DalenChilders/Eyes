@@ -4,7 +4,7 @@
 Eyes tracking mouse movement
 
 ## To Run
-Clone this repository and run index.html file in editor of your choice.
+Clone this repository and open all files in editor of your choice. Then run index.html.
 
 ### License
 Copyright (c) 2022 Dalen Childers
