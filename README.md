@@ -1,6 +1,4 @@
 # Eyes
-<img src="Eyes.png" width='300' hieght='300'/>
-
 Eyes tracking mouse movement
 
 ## To Run
